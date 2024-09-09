@@ -2,9 +2,11 @@
 
 Link to website: https://cloud-box-app.vercel.app/
 
+## Overview
+
 CloudBox is a cloud-based service that provides users with secure, remote access to their files and applications from any device.
 
-### Features
+## Features
 
 CloudBox offers a comprehensive set of features designed to streamline your file management experience:
 
@@ -21,7 +23,7 @@ CloudBox offers a comprehensive set of features designed to streamline your file
 Whether you're an individual aiming for simpler file management or a professional looking for an organized digital workspace, Pocket Cloud’s intuitive design and feature set provide the tools to efficiently manage your files. Try Pocket Cloud today and transform the way you handle your digital assets!
 
 
-### Technologies Used
+## Technologies Used
 
 CloudBox is powered by a robust stack of modern technologies to ensure seamless performance and an intuitive user experience:
 
@@ -37,9 +39,9 @@ CloudBox is powered by a robust stack of modern technologies to ensure seamless 
 ## Getting Started
 
 1. Login using Google Account
-2. Click on `Folder Upload` to add new folder
-3. Click on `File Upload` to add upload new file
-4. Go to `My Files` to manage you all folders/files
+2. Click on `Folder Upload` to add a new folder
+3. Click on `File Upload` to upload new file
+4. Go to `My Files` to manage all folders/files
 
 ## Authentication
 
@@ -50,6 +52,27 @@ CloudBox ensures secure and streamlined authentication through NextAuth and Goog
 CloudBox user interface is crafted with a focus on aesthetics and ease of use. Adhering to **DailyUI** principles, the design offers a visually appealing, intuitive, and user-friendly experience, ensuring seamless interaction and navigation.
 
 
-##
+## Usage
 
-Give CloudBox a try, and it will exceed your expectations! If you encounter any issues or have suggestions, don't hesitate to open an issue on the repository. Your feedback is invaluable and highly appreciated.
+1. **Access the Application:**
+   Go to the CloudBox app at [https://cloud-box-app.vercel.app/](https://cloud-box-app.vercel.app/).
+
+2. **Start Managing Your Files:**
+   - **Create or Upload Files:** Begin by creating new files or uploading existing ones to your cloud storage.
+   - **Organize Files:** Use the intuitive interface to organize your files into folders and manage your cloud storage effectively.
+   - **Access Anywhere:** Retrieve and manage your files from any device with an internet connection.
+
+3. **Explore Features:**
+   - **Secure Access:** Benefit from secure file storage with robust privacy settings to keep your data safe.
+   - **Efficient File Management:** Easily search, sort, and categorize your files for better organization.
+   - **Sync Across Devices:** Ensure your files are synchronized across all your devices for seamless access.
+   - **Customizable Views:** Adjust the view settings to fit your preferences for file display and organization.
+
+
+## Connect with Us
+
+- **Email:** [nikhilverma1425@gmail.com](mailto:nikhilverma1425@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nikhil301](https://www.linkedin.com/in/nikhil301/)
+- **Website:** [nikhil-portfolio.vercel.app](https://nikhilx24-portfolio.vercel.app/)
+
+
