@@ -33,7 +33,7 @@ const AllFoldersList = ({ folders, folderName }) => {
             <div className="mt-3 m-2">
                 {folders.length === 0 ? (
                     <h1 className=" font-bold select-none mt-5 text-[#01275C] text-center text-lg md:text-xl">
-                        Upload 'File' or 'Folder'
+                        Upload File or Folder
                     </h1>
                 ) : (
                     folders.map((item) => (
